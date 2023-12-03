@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.pinimg.com/originals/ed/8a/dd/ed8addffa0aea8dcddc153734d2d4674.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## 😁 Oie, meu nome é Marcos Duarte </strong>
 <h3> Sou técnico de informática </h3>
