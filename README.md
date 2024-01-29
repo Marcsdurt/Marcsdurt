@@ -4,7 +4,7 @@
 <h3> Sou técnico de informática </h3>
 
 - 💻 Aprendendo programação.
-- 🎓 Formação em T.I.</a>.
+- 🎓 Técnico em Informática</a>.
 
 ## 🚀 Minhas Skills
 
