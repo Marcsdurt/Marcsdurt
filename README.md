@@ -25,7 +25,7 @@
 ### 📊 Estatísticas
 
 <a href="https://github.com/Marcsdurt" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcsdurt&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcsdurt&layout=donut&theme=dracula" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
 <br>
